@@ -178,3 +178,80 @@ main {
     color: #757575;
     font-size: 16px;
 }
+
+
+/* Resume styles */
+
+.resume-container {
+    display: flex;
+    gap: 24px;
+}
+
+.section-title {
+    text-align: center;
+}
+
+.resume-column-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.education-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+
+.education-sub-title {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.education-description {
+    font-size: 16px;
+    color: #757575;
+}
+
+.experience-title {
+    color: #474747;
+    font-size: 25px;
+    margin-bottom: 5px;
+
+}
+
+.experience-sub-title {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.experience-description {
+    font-size: 16px;
+    color: #757575;
+}
+
+.resume {
+    margin-bottom: 130px;
+}
+
+.resume hr {
+    margin: 30px 5px;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* 
+.btn-primary {
+    margin: 50px;
+} */
